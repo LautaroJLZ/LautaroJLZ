@@ -8,8 +8,6 @@
 * Email: lautarojoseluis1234@gmail.com </br>
 * Instagram: @LautyJLZ </br>
 * Facebook: Lautaro Zalazar
-- 😄 Pronombres: Lauty
-- ⚡ Hecho divertidos: Me gustan los videojuegos, el entrenamiento con pesas y el anime
 
 <!--
 **LautaroJLZ/LautaroJLZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
