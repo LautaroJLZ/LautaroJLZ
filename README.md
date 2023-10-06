@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 
 - 🔭 Actualmente estoy en busca de algun puesto junior o pasantía. 
