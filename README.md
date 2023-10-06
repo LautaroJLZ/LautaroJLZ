@@ -4,8 +4,7 @@
 - 🔭 Actualmente no estoy trabajando pero si en busca de algun puesto junior o pasantía. 
 - 🌱 Actualmente estoy aprendiendo back end con NodeJS, Mongo DB y más.
 - 💬 Preguntame sobre lo que quieran que voy a buscar la respuesta hasta encontrarla.
-- 📫 Cómo contactarme: 
-  .Email: lautarojoseluis1234@gmail.com
+- 📫 Cómo contactarme: </br> .Email: lautarojoseluis1234@gmail.com
   .Instagram: @LautyJLZ
   .Facebook: Lautaro Zalazar
 - 😄 Pronombres: Lauty
